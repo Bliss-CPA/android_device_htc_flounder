@@ -1,9 +1,9 @@
 [
   {
-    "remote": "cm",
-    "repository": "android_kernel_htc_flounder",
+    "remote": "github",
+    "repository": "Bliss-CPA/android_kernel_htc_flounder",
     "target_path": "kernel/htc/flounder",
-    "revision": "cm-12.0"
+    "revision": "lp5.0"
   },
   {
     "remote": "github",
